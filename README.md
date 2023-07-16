@@ -29,4 +29,4 @@ Soy **Revay**, un chico al que le gusta la programación y aprender cosas nuevas
 ![My Skill](https://skillicons.dev/icons?i=py) ![My Skill](https://skillicons.dev/icons?i=html) ![My Skill](https://skillicons.dev/icons?i=css) 
 
 # Mis Redes 🧭
-![My Skill](https://skillicons.dev/icons?i=youtube)
+![My Skill](https://skillicons.dev/icons?i=discord) ![My Skill](https://skillicons.dev/icons?i=github) ![My Skill](https://skillicons.dev/icons?i=replit) ![My Skill](https://skillicons.dev/icons?i=twitter)
