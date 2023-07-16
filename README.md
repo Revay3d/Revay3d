@@ -1,4 +1,4 @@
-```Paython
+```Python
  User = input("Hola mundo 👋, ¿Como estas?: ")
 
 if User == "bien":
