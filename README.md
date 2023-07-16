@@ -1,5 +1,13 @@
-```JavaScript
- console.log("Hola mundo 👋")
+```Paython
+ User = input("Hola mundo 👋, ¿Como estas?: ")
+
+if User == "bien":
+ print("Super siuu...")
+ 
+else:
+ print("que mal toma una galleta 🍪")
+ 
+
 ```
 
 Soy **Revay**, un chico al que le gusta la programación y aprender cosas nuevas.
