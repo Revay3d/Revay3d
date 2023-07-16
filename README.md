@@ -4,15 +4,9 @@
 
 Soy **Revay**, un chico al que le gusta la programación y aprender cosas nuevas.
 
-# ``Algo de mi 💙``
 
-> 🔭 *Actualmente no estoy trabajando.*
-
-* 🌱 *Actualmente estoy aprendiendo Python, HTML y CSS.*
-
-* ⚡ *Dato curioso: Me gusta el bocadillo y los gatos.*
-
-# ``lenguajes 🗂``
+# ``🗂 lenguajes``
+Estos son algunos lenguajes de programacion que uso para mi aprendisaje de cada dia, o los que e usado y se usar lo basico.
 
 ![My Skill](https://skillicons.dev/icons?i=py) ![My Skill](https://skillicons.dev/icons?i=html) ![My Skill](https://skillicons.dev/icons?i=css) 
 
