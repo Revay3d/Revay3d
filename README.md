@@ -26,4 +26,4 @@ Soy **Revay**, un chico al que le gusta la programación y aprender cosas nuevas
 
 # Mis lenguajes 🗂
 
-![My Skill](https://skillicons.dev/icons?i=py) ![My Skill](https://skillicons.dev/icons?i=html) ![My Skill](https://skillicons.dev/icons?i=css) 
+![My Skill](https://skillicons.dev/icons?i=py) ![My Skill](https://skillicons.dev/icons?i=html) ![My Skill](https://skillicons.dev/icons?i=windows) 
