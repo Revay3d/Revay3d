@@ -4,6 +4,9 @@
 
 Soy **Revay**, un chico al que le gusta la programación y aprender cosas nuevas, que ahora sabe un povo de codigo y por eso es 📚 Juniro Developer.
 
+* Desarrollador web.
+* Desarrollador de code.
+* Diseñador grafico.
 
 # ``🗂 lenguajes``
 Estos son algunos lenguajes de programación que uso para mi aprendizaje de cada día, o los que he usado y sé usar lo básico.
