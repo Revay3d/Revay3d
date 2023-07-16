@@ -16,7 +16,7 @@ else:
 Soy **Revay**, un chico al que le gusta la programación y aprender cosas nuevas.
 
 # Algo de mí 💙
----
+--
 * 🔭 *Actualmente no estoy trabajando.*
 
 * 🌱 *Actualmente estoy aprendiendo Python, HTML y CSS.*
