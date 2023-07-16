@@ -2,7 +2,7 @@
 ---
 ![GitHub followers](https://img.shields.io/github/followers/revay3d) ![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCE7NWSOlaZ4IOXfIuBip_kQ) ![Twitter Follow](https://img.shields.io/twitter/follow/revayDev) <img align='right' src="https://i.ibb.co/zr4fNfh/Iz6o-UDs-AAAAASUVORK5-CYII.png" width="70">
 
-Soy **Revay**, un chico al que le gusta la programación y aprender cosas nuevas.
+Soy **Revay**, un chico al que le gusta la programación y aprender cosas nuevas, que ahora sabe un povo de codigo y por eso es 📚 Juniro Developer.
 
 
 # ``🗂 lenguajes``
@@ -24,7 +24,7 @@ Estas son mis estadísticas según GitHub. Sé que no soy muy bueno, pero hago l
 # ``💿 Proyectos``
 A continuación, te mostraré mis trabajos más importantes para mí. Si quieres, puedes echarles un vistazo 😉
 
-[SafeBox](https://github.com/Revay3d/SafeBox) -> es un ejecutable que guarda tus archivos multimedia usando una contraseña para acceder a ella, y puedes personalizar el nombre de la carpeta y las oportunidades.
+* [SafeBox](https://github.com/Revay3d/SafeBox) -> es un ejecutable que guarda tus archivos multimedia usando una contraseña para acceder a ella, y puedes personalizar el nombre de la carpeta y las oportunidades.
 
 `Un pequeño código de python`
 ```Python
