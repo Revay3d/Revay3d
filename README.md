@@ -12,7 +12,7 @@ else:
 
 ```
 ---
-[![GitHub Revay3d](https://img.shields.io/github/followers/thaiane?label=follow&style=social)](https://github.com/Revay3d) ![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCE7NWSOlaZ4IOXfIuBip_kQ) <img align='right' src="https://i.ibb.co/zr4fNfh/Iz6o-UDs-AAAAASUVORK5-CYII.png" width="70">
+![GitHub](https://img.shields.io/github/license/revay3d/revayDev) ![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCE7NWSOlaZ4IOXfIuBip_kQ) <img align='right' src="https://i.ibb.co/zr4fNfh/Iz6o-UDs-AAAAASUVORK5-CYII.png" width="70">
 
 Soy **Revay**, un chico al que le gusta la programación y aprender cosas nuevas.
 
