@@ -15,7 +15,7 @@ else:
 
 Soy **Revay**, un chico al que le gusta la programación y aprender cosas nuevas.
 
-#Algo de mí:
+# Algo de mí:
 
 * 🔭 *Actualmente no estoy trabajando.*
 
@@ -23,6 +23,6 @@ Soy **Revay**, un chico al que le gusta la programación y aprender cosas nuevas
 
 * ⚡ *Dato curioso: Me gusta el bocadillo y los gatos.*
 
-* Mis lenguajes:
+# Mis lenguajes:
 
-![My Skill](https://skillicons.dev/icons?i=py)
+![My Skill](https://skillicons.dev/icons?i=py) ![My Skill](https://skillicons.dev/icons?i=html)
