@@ -11,7 +11,7 @@ else:
  
 
 ```
-[![GitHub RevayDev](https://img.shields.io/github/followers/thaiane?label=follow&style=social)](https://github.com/revay3d)
+[![GitHub revay3d](https://img.shields.io/github/followers/thaiane?label=follow&style=social)](https://github.com/revay3d)
 Soy **Revay**, un chico al que le gusta la programación y aprender cosas nuevas.
 
 Algo de mí:
