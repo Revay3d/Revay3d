@@ -1,4 +1,4 @@
-```JavaScript
+`JavaScript
  console.log("Hola mundo 👋")
 
 Soy **Revay**, un chico al que le gusta la programación y aprender cosas nuevas.
