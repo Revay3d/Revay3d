@@ -21,6 +21,8 @@ Soy **Revay**, un chico al que le gusta la programación y aprender cosas nuevas
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=revay3d&show_icons=true&theme=radical)
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=revay3d&hide_progress=true)
+
 # ``Codigo 💿``
 este fue el codigo con que empeze (Python 💙)
 ```Python
