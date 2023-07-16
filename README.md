@@ -41,4 +41,4 @@ else:
 ```
 ---
 
-* [🌐 Sitio Web](https://revaydev.neocities.org/) para mas info
+* [🌐 Sitio Web](https://revaydev.neocities.org/) para mas info...
