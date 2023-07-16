@@ -6,36 +6,36 @@ Soy **Revay**, un chico al que le gusta la programación y aprender cosas nuevas
 
 
 # ``🗂 lenguajes``
-Estos son algunos lenguajes de programacion que uso para mi aprendisaje de cada dia, o los que e usado y se usar lo basico.
+Estos son algunos lenguajes de programación que uso para mi aprendizaje de cada día, o los que he usado y sé usar lo básico.
 
 ![My Skill](https://skillicons.dev/icons?i=py) ![My Skill](https://skillicons.dev/icons?i=html) ![My Skill](https://skillicons.dev/icons?i=css) 
 
 # ``📣 Contactos``
-puedes contactarme por algunos de estos medios o ver algunas cosas que se hacer. puededo colaborar en cualquier cosa que pueda y si es de trabajo mucho mejor.
+Puedes contactarme por algunos de estos medios o ver algunas cosas que sé hacer. Puedo colaborar en cualquier cosa que pueda y si es de trabajo mucho mejor.
 
 [![My Skill](https://skillicons.dev/icons?i=discord)](https://discord.com/users/1066481602403766313) [![My Skill](https://skillicons.dev/icons?i=twitter)](https://twitter.com/revayDev?s=09) [![My Skill](https://skillicons.dev/icons?i=github)](https://github.com/Revay3d) 
 
 # ``📈 Estado``
-Estas son mis estadistica segun github se que no soy muy bueno pero hago lo posible para aprender.
+Estas son mis estadísticas según GitHub. Sé que no soy muy bueno, pero hago lo posible para aprender.
+
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=revay3d&show_icons=true&theme=radical)
 
 
 # ``💿 Proyectos``
-acontinuacion te mostrare mis trabajos mas importantes para mi si quiere puedes darke un vistaso 😉
+A continuación, te mostraré mis trabajos más importantes para mí. Si quieres, puedes echarles un vistazo 😉
 
-[SafeBox](https://github.com/Revay3d/SafeBox) -> es un ejecutable que guarda tus archivos multimedia usando una contraseña para aceder a ella, y puedes persobalizar el nombre de la carpeta y las oportunidades.
+[SafeBox](https://github.com/Revay3d/SafeBox) -> es un ejecutable que guarda tus archivos multimedia usando una contraseña para acceder a ella, y puedes personalizar el nombre de la carpeta y las oportunidades.
 
-`un pequeño codigo de python`
+`Un pequeño código de python`
 ```Python
  User = input("""Hola mundo 👋,
-              ¿Como estas?: """)
+              ¿Cómo estás?: """)
 
 if User == "bien":
- print("Super siuu...")
+ print("Súper siuu...")
  
 else:
- print("""que mal toma una 
+ print("""Qué mal, toma una 
        galleta 🍪""")
  
-
 ```
