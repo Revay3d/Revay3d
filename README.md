@@ -28,7 +28,7 @@ Estas son mis estadísticas según GitHub. Sé que no soy muy bueno, pero hago l
 # ``💿 Proyectos``
 A continuación, te mostraré mis trabajos más importantes para mí. Si quieres, puedes echarles un vistazo 😉
 
-* [SafeBox](https://github.com/Revay3d/SafeBox) -> es un ejecutable que guarda tus archivos multimedia usando una contraseña para acceder a ella, y puedes personalizar el nombre de la carpeta y las oportunidades. <img align='right' src="https://i.ibb.co/zr4fNfh/Iz6o-UDs-AAAAASUVORK5-CYII.png" width="70">
+* [SafeBox](https://github.com/Revay3d/SafeBox) -> es un ejecutable que guarda tus archivos multimedia usando una<img align='right' src="https://i.ibb.co/zr4fNfh/Iz6o-UDs-AAAAASUVORK5-CYII.png" width="70"> contraseña para acceder a ella, y puedes personalizar el nombre de la carpeta y las oportunidades.
 
 `Un pequeño código de python`
 ```Python
