@@ -18,7 +18,7 @@ Soy **Revay**, un chico al que le gusta la programación y aprender cosas nuevas
 
 # Algo de mi 💙
 
-* 🔭 *Actualmente no estoy trabajando.*
+> 🔭 *Actualmente no estoy trabajando.*
 
 * 🌱 *Actualmente estoy aprendiendo Python, HTML y CSS.*
 
