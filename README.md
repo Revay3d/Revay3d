@@ -1,13 +1,13 @@
 ```Python
- User = input("Hola mundo 👋,
-              ¿Como estas?: ")
+ User = input("""Hola mundo 👋,
+              ¿Como estas?: """)
 
 if User == "bien":
  print("Super siuu...")
  
 else:
- print("que mal toma una 
-       galleta 🍪")
+ print("""que mal toma una 
+       galleta 🍪""")
  
 
 ```
