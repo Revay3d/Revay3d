@@ -10,7 +10,8 @@ Estos son algunos lenguajes de programacion que uso para mi aprendisaje de cada 
 
 ![My Skill](https://skillicons.dev/icons?i=py) ![My Skill](https://skillicons.dev/icons?i=html) ![My Skill](https://skillicons.dev/icons?i=css) 
 
-# ``Mis Redes 🧭``
+# ``📣 Contactos``
+puedes contactarme por algunos de estos medios o ver algunas cosas que se hacer. puededo colaborar en cualquier cosa que pueda y si es de trabajo mucho mejor.
 [![My Skill](https://skillicons.dev/icons?i=discord)](https://discord.com/users/1066481602403766313) [![My Skill](https://skillicons.dev/icons?i=twitter)](https://twitter.com/revayDev?s=09) [![My Skill](https://skillicons.dev/icons?i=github)](https://github.com/Revay3d) 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=revay3d&show_icons=true&theme=radical)
