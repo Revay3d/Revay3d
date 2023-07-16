@@ -12,7 +12,7 @@ Soy **Revay**, un chico al que le gusta la programación y aprender cosas nuevas
 
 * ⚡ *Dato curioso: Me gusta el bocadillo y los gatos.*
 
-# ``Mis lenguajes 🗂``
+# ``lenguajes 🗂``
 
 ![My Skill](https://skillicons.dev/icons?i=py) ![My Skill](https://skillicons.dev/icons?i=html) ![My Skill](https://skillicons.dev/icons?i=css) 
 
