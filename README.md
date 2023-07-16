@@ -41,5 +41,4 @@ else:
 ```
 ---
 
-Por si quieres visita mi web hecho por mi.
-* [🌐 Sitio Web](https://revaydev.neocities.org/)
+* [🌐 Sitio Web](https://revaydev.neocities.org/) para mas info
