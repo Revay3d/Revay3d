@@ -19,6 +19,8 @@ Soy **Revay**, un chico al que le gusta la programación y aprender cosas nuevas
 # ``Mis Redes 🧭``
 [![My Skill](https://skillicons.dev/icons?i=discord)](https://discord.com/users/1066481602403766313) [![My Skill](https://skillicons.dev/icons?i=twitter)](https://twitter.com/revayDev?s=09) [![My Skill](https://skillicons.dev/icons?i=github)](https://github.com/Revay3d) 
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=revay3d&show_icons=true&theme=radical)
+
 # ``Codigo 💿``
 este fue el codigo con que empeze (Python 💙)
 ```Python
