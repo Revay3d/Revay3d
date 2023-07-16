@@ -19,7 +19,6 @@ puedes contactarme por algunos de estos medios o ver algunas cosas que se hacer.
 Estas son mis estadistica segun github se que no soy muy bueno pero hago lo posible para aprender.
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=revay3d&show_icons=true&theme=radical)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=revay3d&hide_progress=true)
 
 # ``💿 Proyectos``
 acontinuacion te mostrare mis trabajos mas importantes para mi si quiere puedes darke un vistaso 😉
