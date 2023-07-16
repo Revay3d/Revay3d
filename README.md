@@ -15,14 +15,16 @@ puedes contactarme por algunos de estos medios o ver algunas cosas que se hacer.
 
 [![My Skill](https://skillicons.dev/icons?i=discord)](https://discord.com/users/1066481602403766313) [![My Skill](https://skillicons.dev/icons?i=twitter)](https://twitter.com/revayDev?s=09) [![My Skill](https://skillicons.dev/icons?i=github)](https://github.com/Revay3d) 
 
-# ``📈 Estadisticas``
+# ``📈 Estado``
 Estas son mis estadistica segun github se que no soy muy bueno pero hago lo posible para aprender.
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=revay3d&show_icons=true&theme=radical)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=revay3d&hide_progress=true)
 
-# ``Codigo 💿``
-este fue el codigo con que empeze (Python 💙)
+# ``💿 Codigo``
+acontinuacion te mostrare mis trabajos mas importantes para mi si quiere puedes darke un vistaso 😉
+
+SafeBox -> es un ejecutable que guarda tus archivos multimedia usando una contraseña para aceder a ella, y puedes persobalizar el nombre de la carpeta y las oportunidades.
 ```Python
  User = input("""Hola mundo 👋,
               ¿Como estas?: """)
