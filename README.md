@@ -31,18 +31,12 @@ A continuación, te mostraré mis trabajos más importantes para mí. Si quieres
 * [SafeBox](https://github.com/Revay3d/SafeBox) -> <img align='right' src="https://i.ibb.co/xfK8r48/IMG-20230712-WA0000-1.jpg" width="70"> es un ejecutable que guarda tus archivos multimedia con una contraseña para acceder a ella, y puedes personalizar el nombre de la carpeta y las oportunidades.
 
 
-<style>
-  .my-image {
-    border: 2px solid red;
-    border-radius: 8px;
-  }
-</style>
-
-<center>
+<p align="center">
   <a href="https://github.com/revay3d/SafeBox">
-    <img class="my-image" src="https://yasuyumiko.ml/_next/image?url=https%3A%2F%2Fopengraph.githubassets.com%2F7613a8708735b34cb468c201b24182c2dda9d2d5e4bddd2f016e43841100726b%2Frevay3d%2FSafeBox&w=384&q=75" alt="Readme Card">
+    <img style="border: 2px solid red; border-radius: 8px; margin: 16px;" src="https://yasuyumiko.ml/_next/image?url=https%3A%2F%2Fopengraph.githubassets.com%2F7613a8708735b34cb468c201b24182c2dda9d2d5e4bddd2f016e43841100726b%2Frevay3d%2FSafeBox&w=384&q=75" alt="Readme Card">
   </a>
-</center>
+</p>
+
 
 `Un pequeño código de python`
 ```Python
