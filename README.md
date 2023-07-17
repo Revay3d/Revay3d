@@ -30,7 +30,7 @@ A continuación, te mostraré mis trabajos más importantes para mí. Si quieres
 
 * [SafeBox](https://github.com/Revay3d/SafeBox) -> <img align='right' src="https://i.ibb.co/xfK8r48/IMG-20230712-WA0000-1.jpg" width="70"> es un ejecutable que guarda tus archivos multimedia con una contraseña para acceder a ella, y puedes personalizar el nombre de la carpeta y las oportunidades.
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=revay3d&repo=SafeBox)](https://github.com/anuraghazra/github-readme-stats)
 
 `Un pequeño código de python`
 ```Python
