@@ -25,7 +25,7 @@ Estas son mis estadísticas según GitHub. Sé que no soy muy bueno, pero hago l
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=revay3d&show_icons=true&theme=dark)
 
 
-# ``<img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Proyectos</b>``
+# <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Proyectos</b>
 A continuación, te mostraré mis trabajos más importantes para mí. Si quieres, puedes echarles un vistazo 😉
 
 * [SafeBox](https://github.com/Revay3d/SafeBox) -> <img align='right' src="https://i.ibb.co/xfK8r48/IMG-20230712-WA0000-1.jpg" width="70"> es un ejecutable que guarda tus archivos multimedia con una contraseña para acceder a ella, y puedes personalizar el nombre de la carpeta y las oportunidades.
