@@ -20,13 +20,13 @@ Puedes contactarme por algunos de estos medios o ver algunas cosas que sé hacer
 [![My Skill](https://skillicons.dev/icons?i=discord)](https://discord.com/users/1066481602403766313) [![My Skill](https://skillicons.dev/icons?i=twitter)](https://twitter.com/revayDev?s=09) [![My Skill](https://skillicons.dev/icons?i=github)](https://github.com/Revay3d) 
 
 # ``📈 Progresos``
-Estas son mis estadísticas según GitHub. Sé que no soy muy bueno, pero hago lo posible para aprender.
+Estas son mis estadísticas según GitHub y mis lenguajes mas utilizados. Sé que no soy muy bueno, pero hago lo posible para aprender.
 
-* Estadisticas
+* Estadisticas de GitHub
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=revay3d&show_icons=true&theme=dark&locale=es)
 
-* Lenguajes
+* Lenguajes mas usados
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=revay3d&layout=compact&locale=es)](https://github.com/revay3d/github-readme-stats)
 
