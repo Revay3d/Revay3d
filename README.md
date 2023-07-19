@@ -28,7 +28,7 @@ Estas son mis estadísticas según GitHub y mis lenguajes mas utilizados. Sé qu
 
 * Lenguajes mas usados
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=revay3d&layout=compact&locale=es&bg_color=151515&text_color=848484)](https://github.com/revay3d/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=revay3d&layout=compact&locale=es&bg_color=151515&text_color=848484&title_color=FFFFFF)](https://github.com/revay3d/github-readme-stats)
 
 # ``💿 Proyectos``
 A continuación, te mostraré mis trabajos más importantes para mí. Si quieres, puedes echarles un vistazo 😉
