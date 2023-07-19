@@ -22,7 +22,11 @@ Puedes contactarme por algunos de estos medios o ver algunas cosas que sé hacer
 # ``📈 Progresos``
 Estas son mis estadísticas según GitHub. Sé que no soy muy bueno, pero hago lo posible para aprender.
 
+* Estadisticas
+
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=revay3d&show_icons=true&theme=dark)
+
+* Lenguajes
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=revay3d&layout=compact)](https://github.com/revay3d/github-readme-stats)
 
