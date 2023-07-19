@@ -24,7 +24,7 @@ Estas son mis estadísticas según GitHub. Sé que no soy muy bueno, pero hago l
 
 * Estadisticas
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=revay3d&show_icons=true&theme=dark)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=revay3d&show_icons=true&theme=dark&locale=es)
 
 * Lenguajes
 
