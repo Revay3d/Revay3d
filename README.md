@@ -28,7 +28,7 @@ Estas son mis estadísticas según GitHub. Sé que no soy muy bueno, pero hago l
 
 * Lenguajes
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=revay3d&layout=compact)](https://github.com/revay3d/github-readme-statslocale=es)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=revay3d&layout=compact)](https://github.com/revay3d/github-readme-stats&locale=es)
 
 # ``💿 Proyectos``
 A continuación, te mostraré mis trabajos más importantes para mí. Si quieres, puedes echarles un vistazo 😉
