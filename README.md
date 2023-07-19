@@ -24,7 +24,7 @@ Estas son mis estadísticas según GitHub y mis lenguajes mas utilizados. Sé qu
 
 * Estadisticas de GitHub
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=revay3d&show_icons=true&theme=dark&locale=es)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=revay3d&show_icons=true&theme=dark&locale=es&icon_color=2F80ED)
 
 * Lenguajes mas usados
 
