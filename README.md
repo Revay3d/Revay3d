@@ -12,7 +12,7 @@ Soy **Revay**, un chico al que le gusta la programación y aprender cosas nuevas
 # ``🗂 lenguajes``
 Estos son algunos lenguajes de programación que uso para mi aprendizaje de cada día, o los que he usado y sé usar lo básico.
 
-![My Skill](https://skillicons.dev/icons?i=py) ![My Skill](https://skillicons.dev/icons?i=html) ![My Skill](https://skillicons.dev/icons?i=css) 
+![My Skill](https://skillicons.dev/icons?i=py) ![My Skill](https://skillicons.dev/icons?i=js) ![My Skill](https://skillicons.dev/icons?i=html) ![My Skill](https://skillicons.dev/icons?i=css) 
 
 # ``📣 Contactos``
 Puedes contactarme por algunos de estos medios o ver algunas cosas que sé hacer. Puedo colaborar en cualquier cosa que pueda y si es de trabajo mucho mejor.
