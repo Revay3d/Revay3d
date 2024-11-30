@@ -40,9 +40,7 @@ A continuación, te mostraré mis trabajos más importantes para mí. Si quieres
   <a href="https://github.com/revay3d/SafeBox">
 <img src="https://opengraph.githubassets.com/<any_hash_number>/revay3d/SafeBox"  width="700">
      </a>
-  <a href="https://github.com/revay3d/Discord.py">  
-<img src="https://opengraph.githubassets.com/<any_hash_number>/revay3d/Discord.py"  width="700">
-  </a>
+
    <a href="https://github.com/revay3d/Discord.js">  
 <img src="https://opengraph.githubassets.com/<any_hash_number>/revay3d/Discord.js"  width="700">
   </a>
