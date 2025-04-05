@@ -12,7 +12,7 @@ Soy **Revay**, un chico al que le gusta la programación y aprender cosas nuevas
 # ``🗂 Herramientas``
 Estos son algunas herramientas que uso para mi aprendizaje de cada día, o los que he usado y sé usar lo básico.
 
-![My Skill](https://skillicons.dev/icons?i=py) ![My Skill](https://skillicons.dev/icons?i=js) ![My Skill](https://skillicons.dev/icons?i=html) ![My Skill](https://skillicons.dev/icons?i=css) ![My Skill](https://skillicons.dev/icons?i=sass) ![My Skill](https://skillicons.dev/icons?i=react) ![My Skill](https://skillicons.dev/icons?i=vite) 
+![My Skill](https://skillicons.dev/icons?i=py) ![My Skill](https://skillicons.dev/icons?i=js) ![My Skill](https://skillicons.dev/icons?i=html) ![My Skill](https://skillicons.dev/icons?i=css) ![My Skill](https://skillicons.dev/icons?i=sass) ![My Skill](https://skillicons.dev/icons?i=react) ![My Skill](https://skillicons.dev/icons?i=vite) ![My Skill](https://skillicons.dev/icons?i=java)
  
 
 
